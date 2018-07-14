@@ -1,5 +1,5 @@
 # VaadinComparison
-This project shows a comparison regarding about the data-modelling between Vaadin 7, 8 and 10.
+This project shows a very simple phone list application with a grid and form to change the data. And it should show you a straightforward comparison about the data-modelling between Vaadin 7, 8 and 10.
 
 As the folder name is already showing:
 - phonelist-v7 (Vaadin 7)
